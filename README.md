@@ -6,7 +6,7 @@ Sitio web de una distribuidora independiente de productos Omnilife y Seytu. Es u
 
 Abre `config.js` y cambia:
 
-- `whatsapp`: tu número con código de país, solo dígitos. Ejemplo para México: `5215512345678`.
+- `whatsapp`: tu número con código de país, solo dígitos. Ejemplo para Honduras: `50432865699`.
 - `telefonoVisible`, `correo`, `zona`, `horario`: lo que se muestra en la sección de contacto.
 - `facebook`, `instagram`, `tiktok`: enlaces a tus redes (deja `""` para ocultarlas).
 
