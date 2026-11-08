@@ -10,7 +10,7 @@ window.SITE_CONFIG = {
   mensajeGeneral: "¡Hola! Vi su página Comprometidos con tu Salud y me gustaría más información.",
 
   // Datos de contacto que se muestran en la página
-  telefonoVisible: "+52 (000) 000 0000",
+  telefonoVisible: "3286-5699",
   correo: "correo@ejemplo.com",
   zona: "Tu ciudad, Estado",
   horario: "Lunes a sábado, 9:00 a 19:00",
