@@ -28,4 +28,13 @@ Usa fotos propias; no copies imágenes de los sitios oficiales de las marcas.
 
 ## Ver el sitio en tu computadora
 
-Abre `index.html` con doble clic en tu navegador.
+Necesitas tener [Node.js](https://nodejs.org) instalado (versión 18 o más reciente). En la carpeta del proyecto:
+
+```bash
+npm install      # solo la primera vez
+npm run dev      # abre el sitio en http://localhost:5173
+```
+
+Mientras esté corriendo, cada cambio que guardes se ve al instante en el navegador. Para detenerlo, presiona `Ctrl + C`.
+
+También puedes abrir `index.html` con doble clic, sin instalar nada.

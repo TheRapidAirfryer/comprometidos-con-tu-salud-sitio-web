@@ -1,0 +1,13 @@
+{
+  "name": "comprometidos-con-tu-salud",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sitio web de Comprometidos con tu Salud, distribuidora independiente de Omnilife y Seytu",
+  "scripts": {
+    "dev": "vite --open",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
