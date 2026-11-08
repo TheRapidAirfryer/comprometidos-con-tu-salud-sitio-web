@@ -183,7 +183,7 @@ a { color: var(--purple); }
 .step p { color: var(--muted); margin: 0; font-size: .95rem; }
 
 /* CTA */
-.cta { background: linear-gradient(120deg, var(--purple-dark), var(--purple) 55%, var(--green-dark)); color: #fff; padding: 56px 0; }
+.cta { background: radial-gradient(circle at 20% 0%, #4a1d7a, #1f0f33 70%); color: #fff; padding: 56px 0; }
 .cta__inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; }
 .cta h2 { color: #fff; margin-bottom: .2em; }
 .cta p { margin: 0; opacity: .9; }
