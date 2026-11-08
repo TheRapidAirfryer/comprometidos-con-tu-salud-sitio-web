@@ -155,7 +155,7 @@ a { color: var(--purple); }
 .product__img { aspect-ratio: 4 / 3; display: grid; place-items: center; font-size: 3.4rem; }
 .product__img--green { background: linear-gradient(135deg, var(--green-soft), #d9ecb8); }
 .product__img--purple { background: linear-gradient(135deg, var(--purple-soft), #dccbee); }
-.product__photo { aspect-ratio: 4 / 3; object-fit: cover; width: 100%; }
+.product__photo { aspect-ratio: 4 / 3; object-fit: contain; width: 100%; background: #fff; }
 .product__body { padding: 18px 20px 22px; display: flex; flex-direction: column; flex: 1; }
 .product__body p { color: var(--muted); font-size: .92rem; flex: 1; }
 .product__body .btn { align-self: flex-start; }
