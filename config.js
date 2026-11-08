@@ -11,8 +11,7 @@ window.SITE_CONFIG = {
 
   // Datos de contacto que se muestran en la página
   telefonoVisible: "+504 3286-5699",
-  correo: "correo@ejemplo.com",
-  zona: "Honduras",
+  zona: "Choluteca, Honduras",
   horario: "Lunes a sábado, 9:00 a 19:00",
 
   // Redes sociales (deja "" para ocultar)
