@@ -114,7 +114,6 @@ a { color: var(--purple); }
   box-shadow: 0 12px 30px rgba(31, 15, 51, .2); max-width: 180px;
 }
 .hero__chip strong { display: block; font-size: 1.25rem; color: var(--green-dark); }
-.hero__chip--deal { top: 0; left: -28px; }
 .hero__chip--count { bottom: 4px; left: -28px; }
 .hero__chip--count strong { color: var(--purple); }
 
@@ -251,7 +250,6 @@ a { color: var(--purple); }
   .hero__visual { max-width: 380px; padding: 16px; }
   .hero__chip { font-size: .78rem; padding: 8px 12px; max-width: 150px; }
   .hero__chip strong { font-size: 1.05rem; }
-  .hero__chip--deal { left: 0; }
   .hero__chip--count { left: 0; }
   .hero__text { text-align: center; }
   .lead { margin-inline: auto; }
