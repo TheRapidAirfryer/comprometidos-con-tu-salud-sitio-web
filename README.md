@@ -20,7 +20,14 @@ En `index.html`, dentro de la sección `productos`, cada producto es un bloque `
 
 Usa fotos propias o material que te compartan para promocionar; procura que se vean nítidas (al menos 600 px de ancho).
 
-## Publicar gratis con GitHub Pages
+## Publicar en Vercel
+
+1. Entra a [vercel.com](https://vercel.com) e inicia sesión con tu cuenta de GitHub.
+2. Haz clic en **Add New… → Project** y elige el repositorio `comprometidos-con-tu-salud-sitio-web` (si no aparece, dale permiso a Vercel para ver ese repositorio).
+3. No cambies nada de la configuración: el archivo `vercel.json` ya le dice a Vercel cómo construir el sitio. Haz clic en **Deploy**.
+4. En un minuto tendrás tu sitio en una dirección tipo `comprometidos-con-tu-salud.vercel.app`. Cada vez que se actualice la rama `main`, Vercel publica los cambios solo.
+
+## Publicar gratis con GitHub Pages (alternativa)
 
 1. En GitHub, ve a **Settings → Pages**.
 2. En **Source**, elige **Deploy from a branch**, rama `main` y carpeta `/ (root)`.
