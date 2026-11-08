@@ -7,9 +7,9 @@
   }
   document.querySelectorAll("[data-wa]").forEach(function (el) {
     var producto = el.getAttribute("data-producto");
-    var text = producto
+    var text = el.getAttribute("data-mensaje") || (producto
       ? "¡Hola! Me interesan " + producto + ". ¿Me puede dar más información?"
-      : cfg.mensajeGeneral || "¡Hola! Me gustaría más información.";
+      : cfg.mensajeGeneral || "¡Hola! Me gustaría más información.");
     el.href = waLink(text);
     el.target = "_blank";
     el.rel = "noopener";

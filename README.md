@@ -18,7 +18,7 @@ En `index.html`, dentro de la sección `productos`, cada producto es un bloque `
 <img class="product__photo" src="assets/img/productos/mi-foto.jpg" alt="Nombre del producto">
 ```
 
-Usa fotos propias; no copies imágenes de los sitios oficiales de las marcas.
+Usa fotos propias o material que te compartan para promocionar; procura que se vean nítidas (al menos 600 px de ancho).
 
 ## Publicar gratis con GitHub Pages
 
