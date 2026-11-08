@@ -177,7 +177,7 @@ a { color: var(--purple); }
 .step { text-align: center; padding: 28px 22px; border-radius: var(--radius); border: 1px solid var(--line); }
 .step__num {
   display: inline-grid; place-items: center; width: 52px; height: 52px; border-radius: 50%;
-  background: linear-gradient(135deg, var(--purple), var(--green)); color: #fff; font-weight: 700; font-size: 1.3rem; margin-bottom: 12px;
+  background: radial-gradient(circle at 25% 0%, #6a2fa3, #1f0f33 85%); color: #fff; font-weight: 700; font-size: 1.3rem; margin-bottom: 12px;
 }
 .step h3 { color: var(--purple-dark); }
 .step p { color: var(--muted); margin: 0; font-size: .95rem; }
